@@ -63,7 +63,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-  color: #000;
+  color: #ffb300;
   font-family: "Space Mono", Arial, serif;
   font-weight: 400;
   margin: 0 0 20px 0;
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(40, 40, 43, 0.9);
+  background: rgba(11, 36, 71, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 40px;
   margin-bottom: 20px;
   line-height: 1.5;
-  color: #000;
+  color: #fff;
 }
 .fh5co-heading p {
   font-size: 18px;
